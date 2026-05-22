@@ -125,7 +125,6 @@ streamlit run app.py
 * Database Builder
 * Match Result Output
 
-(Add screenshots here later)
 
 ---
 
